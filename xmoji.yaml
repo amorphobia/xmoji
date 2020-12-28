@@ -1,0 +1,8 @@
+# encoding: utf-8
+---
+patch:
+  schema/dependencies/@next: xmoji
+  engine/translators/@next: table_translator@xmoji
+  xmoji:
+    __include: xmoji.schema:/translator
+    initial_quality: -1
