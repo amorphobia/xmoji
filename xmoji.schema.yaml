@@ -40,20 +40,19 @@ speller:
   # max_code_length: 4
   auto_select: true
   auto_select_pattern: ^\w{4}$
-  algebra:
-    - xform/\..+$//
+  # algebra:
+  #   - xform/\..+$//
 
 translator:
   dictionary: xmoji
   enable_completion: true
-  enable_sentence: false
   enable_user_dict: false
   disable_user_dict_for_patterns:
     - "^z.*$"
-  preedit_format:
-    - xform/e(.+)/😃$1/
-  comment_format:
-    - xform/\.(.+)/ $1/
+  # preedit_format:
+  #   - xform/e(.+)/😃$1/
+  # comment_format:
+  #   - xform/\.(.+)/ $1/
 
 key_binder:
   import_preset: default
