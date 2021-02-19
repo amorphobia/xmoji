@@ -59,6 +59,7 @@ use_preset_vocabulary: false
 🏒️` 冰球	ebqw
 😒` 鄙视	ebu
 👎🏻` 鄙视	ebup
+✋🏻` 布	ebuu
 💥` 爆炸	ebvh
 🪕` 班卓琴	ebvq
 🇧🇷` 巴西	ebxa
@@ -67,6 +68,7 @@ use_preset_vocabulary: false
 🌘` 残月	ecyk
 🏂` 单板	edbm
 🌏` 东半球	edbq
+💩` 大便	edbr
 🤏🏻` 一点点	eydd
 🍰` 蛋糕	edg
 🧁` 蛋糕	edg
@@ -173,6 +175,7 @@ use_preset_vocabulary: false
 🏆` 奖杯	ejbm
 🇿🇼` 津巴布韦	ejbw
 🕘` 九点	ejd
+✌🏻` 剪刀	ejd
 🕤` 九点半	ejdb
 🏨` 酒店	ejdg
 🥚` 鸡蛋	ejdv
@@ -190,7 +193,8 @@ use_preset_vocabulary: false
 ➕` 加	ejxl
 🚭` 禁烟	ejyh
 🧬` 基因	ejyk
-🥟` 饺子	ejzv
+🥟` 饺子	ejz
+✂️` 剪子	ejzv
 🥺` 可怜	eklx
 🌖` 亏凸月	ekty
 😭` 哭	eku
@@ -341,6 +345,7 @@ use_preset_vocabulary: false
 🌩️` 闪电	eudl
 🕧` 十二点半	eueb
 🕛` 十二点	eued
+💩` 屎	euiu
 🥟` 水饺	euju
 😪` 睡觉	eujx
 ⏳` 沙漏	eul
@@ -350,6 +355,8 @@ use_preset_vocabulary: false
 🤾🏻‍♀️` 手球	euqw
 🤽🏻‍♀️` 水球	euqw
 🎂` 生日	eurk
+✊🏻` 石头	eut
+🪨` 石头	eutd
 🌲` 树	euu
 🌳` 树	euu
 🌴` 树	euum
