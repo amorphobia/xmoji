@@ -80,6 +80,8 @@ use_preset_vocabulary: false
 🪢` 打结	edjs
 🥚` 蛋	edjv
 💡` 灯泡	edpd
+🙇🏻` 道歉	edq
+🙇🏻‍♀️` 道歉	edqb
 🌐` 地球	edqw
 🧄` 大蒜	edsc
 🥉` 第三名	edsm
@@ -189,6 +191,7 @@ use_preset_vocabulary: false
 🎸` 吉他	ejtr
 🙋🏻‍♂️` 举手	eju
 🙋🏻` 举手	ejup
+✋🏻` 击掌	ejvx
 🏠` 家	ejx
 ➕` 加	ejxl
 🚭` 禁烟	ejyh
